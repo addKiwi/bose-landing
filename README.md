@@ -1,8 +1,6 @@
 
 # Bose landing
 - [DEMO](https://addkiwi.github.io/bose-landing/)
-- [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))
-
 ## Description
 
 Full responsible landing page:
