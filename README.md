@@ -1,6 +1,7 @@
 
 # Bose landing
 - [DEMO](https://addkiwi.github.io/bose-landing/)
+- [Figma](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?type=design&node-id=0-1&mode=design&t=ETqKKkETKV6fEd0n-0)
 ## Description
 
 Full responsible landing page:
